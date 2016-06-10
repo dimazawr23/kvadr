@@ -9,6 +9,7 @@ int main()
 	float x1;
 	float x2;
 	float d;
-
+	printf("Input your A, B, C for equation\n");
+	scanf("%d %d %d", &a, &b, &c);
 	return 0;
 }
